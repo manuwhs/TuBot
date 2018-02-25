@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map Servo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LCD3310	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+LcdWrite	KEYWORD2
+LcdCharacter	KEYWORD2
+setpix	KEYWORD2
+LcdClear	KEYWORD2
+LcdInitialise	KEYWORD2
+LcdString	KEYWORD2
+gotoXY	KEYWORD2
+eraseRec	KEYWORD2
+drawRec	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
